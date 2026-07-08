@@ -48,3 +48,5 @@ I'm open to **remote** Senior Full-Stack, AI/LLM Engineer, Backend (Go) and Prod
 - 💼 LinkedIn: [walter-bruno-vieira](https://www.linkedin.com/in/walter-bruno-vieira)
 - 📧 wbrunovieira77@gmail.com
 - 🌐 Portfolio: [brunodev.wbdigitalsolutions.com](https://brunodev.wbdigitalsolutions.com)
+
+<!-- profile refresh 2026-07-08 -->
