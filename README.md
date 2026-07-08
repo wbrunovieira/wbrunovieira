@@ -43,10 +43,10 @@ I build scalable, product-minded systems end to end — from domain modeling and
 
 ## 📫 Let's talk
 
-I'm open to **remote** Senior Full-Stack, AI/LLM Engineer, Backend (Go) and Product Engineer roles (worldwide / LATAM).
+I'm open to **remote** Senior Full-Stack, AI / Agentic AI Engineer, Backend (Go) and Product Engineer roles (worldwide / LATAM).
 
 - 💼 LinkedIn: [walter-bruno-vieira](https://www.linkedin.com/in/walter-bruno-vieira)
 - 📧 wbrunovieira77@gmail.com
 - 🌐 Portfolio: [brunodev.wbdigitalsolutions.com](https://brunodev.wbdigitalsolutions.com)
 
-<!-- profile refresh 2026-07-08 -->
+<!-- profile refresh 2026-07-08 (visible edit) -->
