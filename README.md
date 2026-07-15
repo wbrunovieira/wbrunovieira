@@ -1,6 +1,6 @@
 # Hi, I'm Walter Bruno Vieira 👋
 
-### Senior Full-Stack & AI Engineer — TypeScript · Node/NestJS · React/Next.js · LangGraph/RAG · Go
+### Senior Full-Stack & AI Engineer — TypeScript · Node/NestJS · React/Next.js · Agentic AI · LangGraph/RAG · Go
 
 I build scalable, product-minded systems end to end — from domain modeling and clean/hexagonal architecture to AI agents and cloud-native deployment. 5+ years shipping production software, backed by 25+ years of professional experience overall. Remote-first, based in Rio de Janeiro, Brazil.
 
