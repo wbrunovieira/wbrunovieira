@@ -50,3 +50,5 @@ I'm open to **remote** Senior Full-Stack, AI / Agentic AI Engineer, Backend (Go)
 - 🌐 Portfolio: [brunodev.wbdigitalsolutions.com](https://brunodev.wbdigitalsolutions.com)
 
 <!-- profile refresh 2026-07-08 (visible edit) -->
+
+<!-- rerender 2026-07-23 -->
