@@ -51,4 +51,4 @@ I'm open to **remote** Senior Full-Stack, AI / Agentic AI Engineer, Backend (Go)
 
 <!-- profile refresh 2026-07-08 (visible edit) -->
 
-<!-- rerender 2026-07-23 -->
+<!-- rerender 2026-08-27 -->
